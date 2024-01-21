@@ -33,7 +33,7 @@ pnpm i -D postcss postcss-import postcss-nesting autoprefixer
 
 <br />
 
-### 바닐라 프로젝트 구현
+### 바닐라 프로젝트(JS) 구현
 ![popup_vanilla](https://github.com/lanuioe/react-homework/assets/148831765/f1a94792-b7c3-4c33-8c8e-127bc2538d7f)
 
 🔹 **배포 사이트**: https://pocket-karly.netlify.app/
@@ -46,11 +46,11 @@ pnpm i -D postcss postcss-import postcss-nesting autoprefixer
 
 <br />
 
-### 리액트
+### 리액트 구현
 ![popup_react](https://github.com/lanuioe/react-homework/assets/148831765/14284015-0995-416f-bfd6-1bd97cd837e0)
 
 🔹 **마크업 수정**<br />
-- 기존 바닐라 프로젝트에서 <u>해당 dialog 마크업 내부에는 form 요소가 불필요하다</u>는 피드백을 받아, `form` → `div`로 수정
+- 기존 바닐라 프로젝트에서 <u>해당 dialog 마크업 내부에는 form 요소가 불필요하다</u>는 피드백을 받아,<br />`form` → `div`로 수정
 
 <br />
 
@@ -94,4 +94,7 @@ pnpm i -D postcss postcss-import postcss-nesting autoprefixer
 <br />
 
 ### 마치며
-기능 구현을 하고 싶었으나 어려워서 일단 마크업 단계까지만 완료하였습니다.<br />아직은 간단한 마크업 단계라서 리액트만의 장점을 비교적 덜 느낀 것 같은데, 다음번에는 팝업 기능 구현과 더불어 다른 페이지들도 리액트로 변경해보고 싶어요!
+기능 구현을 하고 싶었으나 어려워서 일단 마크업 단계까지만 완료하였습니다.<br />
+아직은 간단한 마크업 단계라서 리액트만의 장점을 비교적 덜 느낀 것 같은데, 
+그래도 직접 리액트로 변경하는 과정을 거쳐보니 막막하기만 했던 리액트와 조금은 친해진 것 같아서 좋았습니다.<br />
+다음번에는 팝업 기능 구현과 더불어 다른 페이지들도 리액트로 변경해보고 싶어요!
