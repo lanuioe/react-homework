@@ -9,11 +9,9 @@ import { Autoplay, Navigation, Pagination, Keyboard } from "swiper/modules";
 import bannerData from "../data/banners.json";
 
 export default function RollingBanner() {
-  console.log(bannerData.items);
   return (
-    <>
+    <div className="overflow-x-hidden">
       <Swiper
-        cssMode={true}
         navigation={true}
         pagination={{
           type: "fraction",
@@ -25,19 +23,19 @@ export default function RollingBanner() {
           delay: 3500,
           disableOnInteraction: false,
         }}
-        className="relative min-w-[1920px] max-w-[1920px]"
+        className="banner relative min-w-[1920px] max-w-[1920px] left-1/2 translate-x-[-50%]"
       >
         {bannerData.items?.map((slideData) => {
           return (
             <SwiperSlide key={slideData.id}>
               <img
-                src={`../src/assets/banner${slideData.src}.jpg`}
+                src={`../src/assets/banner/banner${slideData.src}.jpg`}
                 alt={slideData.alt}
               />
             </SwiperSlide>
           );
         })}
       </Swiper>
-    </>
+    </div>
   );
 }
