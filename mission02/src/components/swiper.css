@@ -1,0 +1,23 @@
+.banner .swiper-button-prev, .banner .swiper-button-next {
+  @apply mx-[18%] h-[50px] w-[50px] bg-[url('./svg/arrow-circle.svg')] bg-cover;
+}
+
+.recommendProduct .swiper-button-prev, .recommendProduct .swiper-button-next {
+  @apply h-[50px] w-[50px] bg-[url('./svg/swiper.svg')] bg-cover shadow-Below/Low rounded-full top-44;
+}
+
+.recommendProduct .swiper-button-disabled {
+  @apply hidden;
+}
+
+.swiper-button-next {
+  @apply rotate-180;
+}
+
+div[class^='swiper-button']::after {
+  @apply sr-only;
+}
+
+.swiper-pagination {
+  @apply absolute bottom-7 left-[1430px] w-fit rounded-3xl bg-[#4040404D] px-3.5 text-p-sm text-white;
+}
