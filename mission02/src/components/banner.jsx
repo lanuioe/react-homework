@@ -28,10 +28,12 @@ export default function RollingBanner() {
         {bannerData.items?.map((slideData) => {
           return (
             <SwiperSlide key={slideData.id}>
-              <img
-                src={`../src/assets/banner/banner${slideData.src}.jpg`}
-                alt={slideData.alt}
-              />
+              <a href="#">
+                <img
+                  src={`../src/assets/banner/banner${slideData.src}.jpg`}
+                  alt={slideData.alt}
+                />
+              </a>
             </SwiperSlide>
           );
         })}
