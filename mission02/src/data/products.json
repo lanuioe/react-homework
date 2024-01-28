@@ -1,0 +1,151 @@
+{
+  "name": "banners.json",
+  "version": "0.0.1",
+  "author": "lanuioe@gamil.com",
+  "items": [
+    {
+      "id": "product-p23nio608325zim",
+      "src": "01",
+      "name": "[풀무원] 탱탱쫄면 (4개입)",
+      "detail": "튀기지 않아 부담 없는 매콤함",
+      "price": 10000,
+      "discount": 15,
+      "alt": "풀무원 탱탱쫄면 4개입"
+    },
+    {
+      "id": "product-ufbyolcfolszs3e",
+      "src": "02",
+      "name": "[투다리]시그니처 김치우동 (2인분)",
+      "detail": "오동통한 면발",
+      "price": 13400,
+      "discount": 24,
+      "alt": "투다리 시그니처 김치우동 2인분"
+    },
+    {
+      "id": "product-3c9v20jb5mtgvzm",
+      "src": "03",
+      "name": "[KF365] 파프리카 2입",
+      "detail": "믿고 먹을 수 있는 상품을 합리적인 가격에, KF365",
+      "price": 3990,
+      "discount": 0,
+      "alt": "파프리카 2입"
+    },
+    {
+      "id": "product-tj0tfi2k5t71wcl",
+      "src": "04",
+      "name": "[항공직송] 칠레산 생체리 500g (10row)",
+      "detail": "겨울이면 찾아오는 붉은 빛 달콤함 (1팩/500g)",
+      "price": 15900,
+      "discount": 0,
+      "alt": "칠레산 생체리 500g"
+    },
+    {
+      "id": "product-658zoy0bvl5wcor",
+      "src": "05",
+      "name": "[다정다감] 상주 곶감 또개 200g",
+      "detail": "한입에 쏙 즐기는 곶감",
+      "price": 11500,
+      "discount": 0,
+      "alt": "상주 곶감 또개 200g"
+    },
+    {
+      "id": "product-giv8ueys7629zw5",
+      "src": "06",
+      "name": "[풀무원] 미트파스타 2인분",
+      "detail": "볶은 고기가 풍성한 미트 소스로 더욱 진한",
+      "price": 8480,
+      "discount": 0,
+      "alt": "풀무원 미트파스타 2인분"
+    },
+    {
+      "id": "product-ttqcvy7elhrsudk",
+      "src": "07",
+      "name": "[풀무원] 생면식감 직화짜장",
+      "detail": "쫄깃한 식감이 살아있는 짜장 라면",
+      "price": 5450,
+      "discount": 0,
+      "alt": "풀무원 생면식감 직화짜장"
+    },
+    {
+      "id": "product-ondruextp7lb3ac",
+      "src": "08",
+      "name": "알배기 배추 1봉",
+      "detail": "고소하고 달큼한 맛이 일품인 미니 알배기 배추",
+      "price": 3990,
+      "discount": 0,
+      "alt": "알배기 배추 1봉"
+    },
+    {
+      "id": "product-hzkhsgksca7hlse",
+      "src": "09",
+      "name": "[KF365] 호박고구마 800g",
+      "detail": "더욱 촉촉하고 달콤한 호박고구마 (1봉/800g)",
+      "price": 7200,
+      "discount": 12,
+      "alt": "호박고구마 800g"
+    },
+    {
+      "id": "product-ipop83di685lwjb",
+      "src": "10",
+      "name": "[KF365] 브로콜리 1입",
+      "detail": "믿고 먹을 수 있는 상품을 합리적인 가격에, KF365",
+      "price": 2590,
+      "discount": 10,
+      "alt": "브로콜리 1입"
+    },
+    {
+      "id": "product-om399jm5ck87r8z",
+      "src": "11",
+      "name": "[Dole] 스위티오 파인애플 청크 400g",
+      "detail": "손쉽게 즐기는 조각 파인애플",
+      "price": 7500,
+      "discount": 20,
+      "alt": "파인애플 청크 400g"
+    },
+    {
+      "id": "product-ele9glei84aiu7c",
+      "src": "12",
+      "name": "[Dole] 스위티오 바나나 1kg",
+      "detail": "고랭지 재배로 더 달고 쫀득한 (1수/1kg내외)",
+      "price": 4480,
+      "discount": 12,
+      "alt": "스위티오 바나나 1kg"
+    },
+    {
+      "id": "product-musnud903ufy07p",
+      "src": "13",
+      "name": "[포트럭] 국산 생물 홍가리비 700g",
+      "detail": "제철 맞은 화려한 자태",
+      "price": 7200,
+      "discount": 0,
+      "alt": "홍가리비 700g"
+    },
+    {
+      "id": "product-g32xoy95y83ty79",
+      "src": "14",
+      "name": "[포트럭] 제주 손질 갈치 반마리 (왕특대) 220g (생물)",
+      "detail": "두툼한 살결이 오롯이 느껴지는",
+      "price": 25900,
+      "discount": 2,
+      "alt": "오징어 220g"
+    },
+    {
+      "id": "product-js0aa9ql3nzgbep",
+      "src": "15",
+      "name": "[도드람한돈] 항정살 구이용 500g (냉장)",
+      "detail": "100g당 판매가: 5,700원",
+      "price": 28500,
+      "discount": 5,
+      "alt": "항정살 구이용 500g"
+    },
+    {
+      "id": "product-1r8hagdshf2m48s",
+      "src": "16",
+      "name": "[블루보틀] 블렌드 원두 4종",
+      "detail": "섬세하고 다채롭게 풀어낸 향미",
+      "price": 25000,
+      "discount": 0,
+      "alt": "블렌드 원두 4종"
+    }
+  ]
+}
