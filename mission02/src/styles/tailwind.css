@@ -5,6 +5,7 @@
 @import 'tailwindcss/utilities';
 /* @import './custom-utilities.css'; */
 @import 'button.css';
+@import '../components/banner.css';
 
 @font-face {
   font-family: 'Pretendard-Regular';
